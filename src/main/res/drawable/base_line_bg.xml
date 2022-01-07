@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--分割线左右边距-->
+    <item
+        android:right="10dp"
+        android:left="20dp">
+        <shape>
+            <solid android:color="@color/base_gray_bg"/>
+            <size
+                android:height="1px"/>
+        </shape>
+    </item>
+</layer-list>
