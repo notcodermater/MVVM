@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="base_tvTitle" type="id"/>
+    <item name="base_smRefresh" type="id"/>
+    <item name="base_tvRight" type="id"/>
+    <item name="base_ivClose" type="id"/>
+    <item name="base_ivFocus" type="id"/>
+    <item name="base_root" type="id"/>
+</resources>

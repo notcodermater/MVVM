@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="base_empty">没有数据哦,去别处看看~</string>
+    <string name="base_network_error">页面不见了~</string>
+    <string name="base_click_tryagain">点击重试</string>
+    <string name="base_again_exit">再按一次退出</string>
+    <string name="com_login_is_expired">登录已过期,请重新选择角色登录</string>
+    <string name="com_hint">警告</string>
+    <string name="com_expired_waring">登录过期</string>
+    <string name="com_checkin_sure">确认</string>
+    <string name="com_checkin_cancle">取消</string>
+
+    <string name="sayno_premission_cannot_record">拒绝了权限,无法录音</string>
+    <string name="up_for_cancel">手指上滑，取消发送</string>
+    <string name="want_to_cancle">松开手指，取消发送</string>
+    <string name="time_too_short">录音时间过短</string>
+
+</resources>
